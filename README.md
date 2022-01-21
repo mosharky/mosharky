@@ -1,6 +1,6 @@
 # Greetings!
 
-[![Discord](https://img.shields.io/discord/862005828219174913?label=discord)](https://discord.gg/4fcsmF2VHK)
+[![Discord](https://img.shields.io/discord/532779726343897104?label=Discord&amp;style=for-the-badge&amp;link=https://discord.gg/4fcsmF2VHK)](https://discord.gg/4fcsmF2VHK)
 
 I'm a Canadian University student who currently enjoys Minecraft modding a little too much :)
 
