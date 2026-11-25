@@ -23,12 +23,6 @@ A Minecraft mod with **1,250,000+ downloads**. Worked with the Origins API devel
 ### [Vintage Story Mod Updater](https://github.com/mosharky/MO2-VS-Mod-Updater) · Python · PyQt6
 The first GUI mod updater for *Vintage Story*: a Mod Organizer 2 plugin that updates installed mods through the game's mod database REST API. 1,000+ downloads, with pull requests from users.
 
-### [Mo's Ongoing Patches](https://github.com/mosharky/Ongoing-Patches) · Skyrim SE
-47 compatibility patches and fixes for popular Skyrim mods, packaged in a FOMOD installer. **147,000+ downloads** and 570+ endorsements on [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/82097).
-
-### [EMI Loot + LootJS Fix](https://github.com/mosharky/EMI_Loot_Fix) · Java · Mixin · NeoForge
-Tracked down why EMI Loot ignored LootJS loot table changes (it read the tables before LootJS applied them) and wrote a Mixin patch that fixes the open upstream bug. 1,100+ downloads on Modrinth.
-
 ---
 
 ## 🛠️ Tech I use
