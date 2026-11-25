@@ -34,7 +34,9 @@ Tracked down why EMI Loot ignored LootJS loot table changes (it read the tables 
 ## 🛠️ Tech I use
 
 **Languages:** C++ · Java · Python · C# · JavaScript · SQL
+
 **Game dev & modding:** Mixin · Fabric / NeoForge · Unreal Engine 5 · Unity · SDL2 · OpenGL / GLSL
+
 **Tools:** Git · GitHub Actions · CMake · Docker · Visual Studio · IntelliJ
 
 ---
