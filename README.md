@@ -3,7 +3,6 @@
 Canadian Computer Science student at **Sheridan College** (B.CS, expected 2028). I mostly build **game mods and the tooling around them**: native C++ engine patches, Java mods for Minecraft, and Python utilities for mod managers. Most of it is open source, and a few projects have reached over a million players.
 
 - 🔧 **Currently working on:** [Artificer](https://github.com/mosharky/Artificer), a native C++ performance plugin for *Europa Universalis IV*
-- 🤝 **Previously:** mod developer at [Monad Modding](https://github.com/Monad-Modding) on *No Man's Land* and *Wayfarer* (300k+ downloads)
 - 💬 **Ask me about:** reverse-engineering game engines, Minecraft modding (Fabric / NeoForge / Mixin), Mod Organizer 2 plugins
 
 ---
