@@ -29,7 +29,7 @@ The first GUI mod updater for *Vintage Story*: a Mod Organizer 2 plugin that upd
 
 **Languages:** C++ · Java · Python · C# · JavaScript · SQL
 
-**Game dev & modding:** Mixin · Fabric / NeoForge · Unreal Engine 5 · Unity · SDL2 · OpenGL / GLSL
+**Game dev & modding:** Unreal Engine 5 · Unity · SDL2 · OpenGL / GLSL
 
 **Tools:** Git · GitHub Actions · CMake · Docker · Visual Studio · IntelliJ
 
